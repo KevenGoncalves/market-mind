@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+       android:id="@+id/dashboard"
+        android:title="@string/in_cio"
+        android:icon="@drawable/material_symbols_light_home_outline"
+        />
+    <item
+       android:id="@+id/despesas"
+        android:title="@string/despesas"
+        android:icon="@drawable/ph_wallet"
+        />
+    <item
+       android:id="@+id/contribuicos"
+        android:title="@string/contribui_es"
+        android:icon="@drawable/ph_money"
+        />
+    <item
+       android:id="@+id/definicoes"
+        android:title="@string/defini_es"
+        android:icon="@drawable/solar_settings_linear"
+        />
+</menu>

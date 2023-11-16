@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarketMind</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="esqueceu_a_senha">Esqueceu a senha</string>
+    <string name="despesas">Despesas</string>
+    <string name="in_cio">Início</string>
+    <string name="contribui_es">Valores</string>
+    <string name="defini_es">Definições</string>
+</resources>
